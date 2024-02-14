@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá, sou Rafaela Alves! 👋
 
-<!--
-**rafaelaalvesn/rafaelaalvesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formação: Bacharel em Sistemas de Informação pela PUC Minas
 
-Here are some ideas to get you started:
+💻 **Skills e Expertise:**
+- Desenvolvimento Web
+- CSS e Frameworks como Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos Destacados:**
+- Vice-campeã no Gamethon da Hacktudo 2021 com o projeto "Jornada do Investidor"
+- Entre as 100 melhores pessoas desenvolvedoras no desafio promovido pela HackerRank
+
+🌅 **Interesses:**
+- Apaixonada por ver o pôr do sol e a lua
+- Adepta do mundo virtual: Mestre em The Sims 2
+
+🌐 **Conecte-se:**
+- [LinkedIn](seu-linkedin)
+- [Twitter](seu-twitter)
+
