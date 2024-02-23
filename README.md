@@ -3,7 +3,7 @@
 🎓 Formação: 
 - Bacharel em Sistemas de Informação pela PUC Minas
 - Pós graduada em desenvolvimento WEB
--  
+  
 
 💻 **Skills e Expertise:**
 - Desenvolvimento Web:
