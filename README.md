@@ -92,10 +92,13 @@ Pós graduada em desenvolvimento WEB
 - Artigo publicado na SB Games 2021: [Elementos presentes em jogos eletrônicos que
 motivam meninas a não abandonarem um jogo](https://www.sbgames.org/proceedings2021/CulturaFull/217653.pdf)
 
+<hr>
+
 🌅 **Hobbies e Interesses:**
 - Apaixonada em ver o pôr do sol, a lua e mirantes
 - Mestre em The Sims 2
 - Casa: Corvinal  🔵⚪
+<hr>
 
 🌐 **Conecte-se:**
 - [LinkedIn](seu-linkedin)
