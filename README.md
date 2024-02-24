@@ -1,5 +1,8 @@
 ## Olá, sou Rafaela Alves! 👋
 
+Sou Analista de Sistemas, trabalho em uma empresa de pequeno porte, sendo assim faço parte de todas as etapas no desenvolvimento de um software: análise, levantamento de requisitos, projeto, desenvolvimento back-end, front-end, banco de dados, teste e deploy.
+
+Me defino como uma profissional T-shaped: tenho o conhecimento e habilidades em várias áreas, entretando me destaco fortemente no desenvolvimento web. Tenho uma maior facilidade, aptidão e preferência no que diz respeito as tecnologias front-end.
 
 #### 🎓 Formação: 
 <ul>
