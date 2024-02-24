@@ -99,7 +99,7 @@ Postgraduate degree in Web Development.
 
 🚀 **Additional Completed Courses:**
 
-- UX DesignHeurísticas
+- UX Design Heuristics
 - Adobe XD
 - CSS Flexbox
 - SASS
