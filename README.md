@@ -1,4 +1,4 @@
-## Hello, Rafaela Alves! 👋
+## Hello, I'm Rafaela Alves! 👋
 
 I am a Systems Analyst, working in a small-sized company. Therefore, I am involved in all stages of software development: analysis, requirements gathering, design, back-end development, front-end development, database management, testing, and deployment.
 
