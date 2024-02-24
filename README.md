@@ -11,8 +11,8 @@ Pós graduada em desenvolvimento WEB
 </li>
 </ul>
 
+---
 
-<hr>
 
 💻 **Languages and Tools:**
 <br/>
