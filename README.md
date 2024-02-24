@@ -1,16 +1,16 @@
 ## Olá, sou Rafaela Alves! 👋
 
-Sou Analista de Sistemas, trabalho em uma empresa de pequeno porte, sendo assim faço parte de todas as etapas no desenvolvimento de um software: análise, levantamento de requisitos, projeto, desenvolvimento back-end, front-end, banco de dados, teste e deploy.
+I am a Systems Analyst, working in a small-sized company. Therefore, I am involved in all stages of software development: analysis, requirements gathering, design, back-end development, front-end development, database management, testing, and deployment.
 
-Me defino como uma profissional T-shaped: tenho o conhecimento e habilidades em várias áreas, entretando me destaco fortemente no desenvolvimento web. Tenho uma maior facilidade, aptidão e preferência no que diz respeito as tecnologias front-end.
+I define myself as a T-shaped professional: I have knowledge and skills in several areas, however, I stand out strongly in web development. I have a greater ease, aptitude, and preference when it comes to front-end technologies.
 
-#### 🎓 Formação: 
+#### 🎓 Education: 
 <ul>
 <li>
-Bacharel em Sistemas de Informação pela PUC Minas
+Bachelor's degree in Information Systems from PUC Minas
 </li>
 <li>
-Pós graduada em desenvolvimento WEB
+Postgraduate degree in Web Development.
 </li>
 </ul>
 
@@ -89,15 +89,15 @@ Pós graduada em desenvolvimento WEB
 <sup><b>Back-End</b>: Node.js, C#, Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Databases:</b>SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Control Version and Platforms </b>: Git, Azure </sup>
 <hr>
 
-🚀 **Projetos Destacados:**
-- Vice-campeã no gamethon da Hacktudo 2021 com o projeto "Jornada do Investidor"
-- Destaque entre as 100 melhores pessoas desenvolvedoras no desafio promovido pela EBANK - Code Your Way 2021
-- Artigo publicado na SB Games 2021: [Elementos presentes em jogos eletrônicos que
-motivam meninas a não abandonarem um jogo](https://www.sbgames.org/proceedings2021/CulturaFull/217653.pdf)
+🚀 **Highlighted Projects:**
+
+- Runner-up in the Hacktudo 2021 gamethon with the project “Investor’s Journey”
+- Highlighted among the top 100 developers in the challenge promoted by EBANK - Code Your Way 2021
+- Paper published in SB Games 2021: Elements present in electronic games that motivate girls not to abandon a game"
 
 <hr>
 
-🚀 **Cursos Avulsos Concluídos:**
+🚀 **Additional Completed Courses:**
 
 - UX DesignHeurísticas
 - Adobe XD
@@ -106,10 +106,10 @@ motivam meninas a não abandonarem um jogo](https://www.sbgames.org/proceedings2
   
 <hr>
 
-🌅 **Hobbies e Interesses:**
-- Apaixonada em ver o pôr do sol, a lua e mirantes
-- Mestre em The Sims 2
-- Casa: Corvinal  🔵⚪
+🌅 **Hobbies and Interests:**
+- I really enjoy watching sunsets, the moon, and viewpoints.
+- Master of The Sims 2
+- House: Ravenclaw 🔵⚪ 
 <hr>
 
 🌐 **Conecte-se:**
