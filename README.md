@@ -89,6 +89,15 @@ Pós graduada em desenvolvimento WEB
 <sup><b>Back-End</b>: Node.js, C#, Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Databases:</b>SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Control Version and Platforms </b>: Git, Azure </sup>
 <hr>
 
+🚀 **Cursos Avulsos Concluídos:**
+
+- UX DesignHeurísticas
+- Adobe XD
+- CSS Flexbox
+- SASS
+  
+<hr>
+
 🚀 **Projetos Destacados:**
 - Vice-campeã no gamethon da Hacktudo 2021 com o projeto "Jornada do Investidor"
 - Destaque entre as 100 melhores pessoas desenvolvedoras no desafio promovido pela EBANK - Code Your Way 2021
