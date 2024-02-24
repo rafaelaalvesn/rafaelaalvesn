@@ -75,19 +75,17 @@ Pós graduada em desenvolvimento WEB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
- <img width="80" />
+      <img width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40"  />
+    <img width="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"  height="40"  />  
-  <img width="150" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
->
   <img width="12" />
 </div>
-<sup><b>Back-End</b>: Node.js, C#, Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Control Version and Platforms </b>: Git, Azure &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Databases (SQL): </b>SQL Server, MySql, Postgres SQL </sup>
+<sup><b>Back-End</b>: Node.js, C#, Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Databases:</b>SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Control Version and Platforms </b>: Git, Azure </sup>
 <hr>
+
 🚀 **Projetos Destacados:**
 - Vice-campeã no gamethon da Hacktudo 2021 com o projeto "Jornada do Investidor"
 - Destaque entre as 100 melhores pessoas desenvolvedoras no desafio promovido pela EBANK - Code Your Way 2021
