@@ -17,7 +17,7 @@ Postgraduate degree in Web Development.
 ---
 
 
-💻 **Languages and Tools:**
+💻 **Programming Languages and Tools:**
 <br/>
 
 <div align="left">
